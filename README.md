@@ -51,6 +51,15 @@ This AI-powered diagnostic assistant leverages machine learning to help users id
 - **Secondary Validator**: Support Vector Machine (100% test accuracy)
 - **Ensemble Approach**: Combines predictions for robust results
 
+### Usage Guide
+1. Launch Jupyter notebook environment
+2. Execute all cells in HealthCare_Chatbot.ipynb
+3. Follow interactive prompts:
+   - Enter your name
+   - Describe symptoms in natural language
+   - Answer follow-up questions
+   - Receive comprehensive diagnostic report
+
 ### Core Dependencies
 ```requirements
 python==3.9.13
